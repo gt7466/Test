@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("start");
-
+            string aaa = "";
             Console.ReadLine();
         }
     }
